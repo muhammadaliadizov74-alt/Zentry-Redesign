@@ -61,7 +61,7 @@ const Navbar = () => {
       <header className="absolute top-1/2 w-full -translate-y-1/2">
         <nav className="flex size-full items-center justify-between p-4">
           <div className="flex items-center gap-7">
-            <img src="/img/logo.png" alt="logo" className="w-10" />
+            <img src="/img/logo.png.png" alt="logo" className="w-10" />
             <Button
               id="product-button"
               title="Products"
@@ -82,7 +82,19 @@ const Navbar = () => {
                 </a>
               ))}
             </div>
-
+<button 
+  onClick={() => window.open("https://www.donationalerts.com/r/present_s1mple", "_blank")}
+  className="ml-10 group relative z-10 flex cursor-pointer items-center overflow-hidden rounded-full bg-[#EDFF66] px-6 py-2 text-black transition-all hover:bg-white"
+>
+  <span className="relative inline-flex overflow-hidden font-general text-xs uppercase">
+    <div className="translate-y-0 transition duration-500 group-hover:-translate-y-[160%]">
+      Donate 💰
+    </div>
+    <div className="absolute translate-y-[160%] transition duration-500 group-hover:translate-y-0">
+      Donate 🔥
+    </div>
+  </span>
+</button>
             <button
               className="ml-10 flex items-center space-x-0.5"
               onClick={toggleAudioIndicator}

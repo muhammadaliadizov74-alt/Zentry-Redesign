@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zentry Clone - Frontend Showcase
 
 This project is a clone of the stunning website **Zentry.com**, created to showcase my frontend development skills. The goal of this clone is to replicate the beautiful UI, animations, and interactive features of the original website, while demonstrating my expertise in modern frontend technologies like **ReactJS**, **Tailwind CSS**, and **GSAP**.
@@ -100,3 +101,6 @@ If you have any questions or feedback, feel free to reach out to me:
 
 - Email: alfredfavour76@gmail.com
 - GitHub: [freddyfavour](https://github.com/freddyfavour)
+=======
+# Zentry-Redesign
+>>>>>>> a28643bfbe72ae643380b54060854b7d7c5fc131

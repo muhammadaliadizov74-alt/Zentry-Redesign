@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Zentry Clone - Frontend Showcase
 
 This project is a clone of the stunning website **Zentry.com**, created to showcase my frontend development skills. The goal of this clone is to replicate the beautiful UI, animations, and interactive features of the original website, while demonstrating my expertise in modern frontend technologies like **ReactJS**, **Tailwind CSS**, and **GSAP**.
 
----
+
 
 ## **Features**
 
@@ -34,7 +34,7 @@ To get the project up and running locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/freddyfavour/zentry-clone.git
+git clone https://github.com/muhammadaliadizov74-alt/Zentry-Redesign
 ```
 
 ### 2. Install Dependencies
@@ -54,7 +54,7 @@ Once the dependencies are installed, start the local development server with:
 npm run dev
 ```
 
-This will run the app at `http://localhost:5173`.
+This will run the app at `http://localhost:5174/#nexus`.
 
 ---
 
@@ -99,8 +99,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- Email: alfredfavour76@gmail.com
-- GitHub: [freddyfavour](https://github.com/freddyfavour)
-=======
-# Zentry-Redesign
->>>>>>> a28643bfbe72ae643380b54060854b7d7c5fc131
+- Email: muhammadaliadizov74@gmail.com
+- GitHub: [M1LES](https://github.com/muhammadaliadizov74-alt)

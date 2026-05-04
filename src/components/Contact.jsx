@@ -1,3 +1,4 @@
+import React from 'react';
 import AnimatedTitle from "./AnimatedTitle";
 import Button from "./Button";
 
